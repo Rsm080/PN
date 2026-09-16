@@ -1,0 +1,15 @@
+Paper-style E1/E2 comparison (same M=10, C=5):
+  E1_mu0: mu_P=0, feasible=True, min_H=0.309311
+    velocity_mean_range=0.331447596
+    velocity_mean_sd=0.0785216655
+    acceleration_mean_range=0.783216696
+    acceleration_mean_sd=0.110365679
+    jerk_mean_range=5.2040061
+    jerk_mean_sd=0.524684925
+  E2_mu5: mu_P=5, feasible=True, min_H=0.536152
+    velocity_mean_range=0.134352902
+    velocity_mean_sd=0.0367660031
+    acceleration_mean_range=0.276630214
+    acceleration_mean_sd=0.0466105733
+    jerk_mean_range=1.3413914
+    jerk_mean_sd=0.135192309
